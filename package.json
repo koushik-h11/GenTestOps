@@ -1,0 +1,20 @@
+{
+  "name": "ai_devops",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/koushik-h11/GenTestOps#readme",
+  "bugs": {
+    "url": "https://github.com/koushik-h11/GenTestOps/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koushik-h11/GenTestOps.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
